@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+
+header {
+  background-color: rgb(24, 21, 21);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h1, h2{
+  font-family: 'Press Start 2P', cursive;
+}
+header h1 {
+  color:bisque;
+  font-family:Verdana, Geneva, Tahoma, sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+}
+header img{
+  border-radius: 300px;
+  width: 200px; color: bisque;
+}
+
+main{
+  max-width: 1000px;
+  margin:0 auto;
+  padding:0 20px;
+}
+
+main img{
+  max-width: 100%;
+}
+h2 {
+  font-size: 30px;
+  color: rgb(202, 109, 23)
+}
+
+p {
+  
+  color:rgb(44, 29, 6);
+}
